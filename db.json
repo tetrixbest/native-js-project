@@ -1,0 +1,95 @@
+{
+  "goods": [
+    {
+      "title": "Ichigo",
+      "description": "efbf,ae",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a54ce51-fcc2-4139-9b86-22af94daa4fd/dfnzeom-2819882f-e52e-4f8a-a363-f5fea8100734.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhNTRjZTUxLWZjYzItNDEzOS05Yjg2LTIyYWY5NGRhYTRmZFwvZGZuemVvbS0yODE5ODgyZi1lNTJlLTRmOGEtYTM2My1mNWZlYTgxMDA3MzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAiKmQox0Ft0GbQBV7RptEgvVs7B_SkxWD5eNKAcyfk",
+      "price": "122",
+      "id": 6
+    },
+    {
+      "title": "Aizen Sosuke",
+      "description": "wecv,cewc",
+      "image": "https://static.wikia.nocookie.net/pure-evil-wiki/images/4/46/ShinigamiAizen.png/revision/latest?cb=20220601161315",
+      "price": "9999999999999lv",
+      "id": 7
+    },
+    {
+      "title": "Ulkiora",
+      "description": "frrrf",
+      "image": "https://static.wikia.nocookie.net/vsbattles/images/0/00/Ulquiorra_Cifer.png/revision/latest/scale-to-width-down/350?cb=20150810025600",
+      "price": "444444444",
+      "id": 8
+    },
+    {
+      "title": "Urahara",
+      "description": "fwbek.dbew",
+      "image": "https://static.wikia.nocookie.net/jump-bonds/images/4/4c/Kisuke_Urahara.png/revision/latest?cb=20200816080941",
+      "price": "6666666666",
+      "id": 9
+    },
+    {
+      "title": "rcec",
+      "description": "cecrc",
+      "image": "https://www.vhv.rs/dpng/d/336-3368877_bleach-ichigo-fullbring-manga-hd-png-download.png",
+      "price": "edeee",
+      "id": 10
+    },
+    {
+      "title": "fg6",
+      "description": "6666",
+      "image": "https://www.vhv.rs/dpng/d/336-3368877_bleach-ichigo-fullbring-manga-hd-png-download.png",
+      "price": "5555",
+      "id": 11
+    },
+    {
+      "title": "fg6",
+      "description": "6666",
+      "image": "https://www.vhv.rs/dpng/d/336-3368877_bleach-ichigo-fullbring-manga-hd-png-download.png",
+      "price": "5555",
+      "id": 12
+    },
+    {
+      "title": "rr",
+      "description": "rr",
+      "image": "https://www.vhv.rs/dpng/d/336-3368877_bleach-ichigo-fullbring-manga-hd-png-download.png",
+      "price": "r44",
+      "id": 13
+    },
+    {
+      "title": "rrcter",
+      "description": "ftee",
+      "image": "https://www.vhv.rs/dpng/d/336-3368877_bleach-ichigo-fullbring-manga-hd-png-download.png",
+      "price": "333333",
+      "id": 14
+    },
+    {
+      "title": "xex",
+      "description": "rcrfr",
+      "image": "https://asiastore.kg/image/cachewebp/catalog/mac/macbookpro13m2/spacegray/apple-macbook-pro-13p3-space-grey-m2-256gb-ssd-laptop-mneh3lla-half-closed-670x540.webp",
+      "price": "333333",
+      "id": 15
+    },
+    {
+      "title": "333",
+      "description": "3333",
+      "image": "https://asiastore.kg/image/cachewebp/catalog/mac/macbookpro13m2/spacegray/apple-macbook-pro-13p3-space-grey-m2-256gb-ssd-laptop-mneh3lla-half-closed-670x540.webp",
+      "price": "44444",
+      "id": 16
+    },
+    {
+      "title": "eee",
+      "description": "eee",
+      "image": "https://asiastore.kg/image/cachewebp/catalog/mac/macbookpro13m2/spacegray/apple-macbook-pro-13p3-space-grey-m2-256gb-ssd-laptop-mneh3lla-half-closed-670x540.webp",
+      "price": "44444",
+      "id": 17
+    },
+    {
+      "title": "yyy",
+      "description": "yyyyyy",
+      "image": "https://asiastore.kg/image/cachewebp/catalog/mac/macbookpro13m2/spacegray/apple-macbook-pro-13p3-space-grey-m2-256gb-ssd-laptop-mneh3lla-half-closed-670x540.webp",
+      "price": "888888",
+      "id": 18
+    }
+  ]
+}
